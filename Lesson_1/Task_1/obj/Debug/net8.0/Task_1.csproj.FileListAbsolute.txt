@@ -12,3 +12,4 @@ F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1
 F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.pdb
 F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
 F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
