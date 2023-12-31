@@ -1,0 +1,15 @@
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.AssemblyInfoInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.AssemblyInfo.cs
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.csproj.CoreCompileInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.sourcelink.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\bin\Debug\net8.0\Sem_1.exe
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\bin\Debug\net8.0\Sem_1.deps.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\bin\Debug\net8.0\Sem_1.runtimeconfig.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\bin\Debug\net8.0\Sem_1.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\bin\Debug\net8.0\Sem_1.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\refint\Sem_1.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\Sem_1.genruntimeconfig.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Sem_1\obj\Debug\net8.0\ref\Sem_1.dll
