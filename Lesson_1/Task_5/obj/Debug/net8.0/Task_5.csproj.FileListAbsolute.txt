@@ -1,0 +1,15 @@
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\bin\Debug\net8.0\Task_5.exe
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\bin\Debug\net8.0\Task_5.deps.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\bin\Debug\net8.0\Task_5.runtimeconfig.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\bin\Debug\net8.0\Task_5.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\bin\Debug\net8.0\Task_5.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.AssemblyInfoInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.AssemblyInfo.cs
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.csproj.CoreCompileInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.sourcelink.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\refint\Task_5.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\Task_5.genruntimeconfig.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_1\Task_5\obj\Debug\net8.0\ref\Task_5.dll
