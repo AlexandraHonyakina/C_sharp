@@ -50,18 +50,24 @@
 
 
 //Задача 3 . Найти макс из 5 гирь.
-int n = 5;
-int[] arr = {12, 5, 36, 9, 17};
-int i = 0;
-int max = 0;
+// int n = 5;
+// int[] arr = {12, 5, 36, 9, 17};
+// int i = 0;
+// int max = 0;
 
-while (i<n)
-{
-    if(arr[i] > max)
-    {
-    max = arr[i];
-    }
-i = i + 1;
-}
-Console.Write($"{max} ");
+// while (i<n)
+// {
+//     if(arr[i] > max)
+//     {
+//     max = arr[i];
+//     }
+// i = i + 1;
+// }
+// Console.Write($"{max} ");
+
+
+
+
+
+
 
