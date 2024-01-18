@@ -1,0 +1,15 @@
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.AssemblyInfoInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.AssemblyInfo.cs
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.csproj.CoreCompileInputs.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.sourcelink.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\bin\Debug\net8.0\Lesson_2.exe
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\bin\Debug\net8.0\Lesson_2.deps.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\bin\Debug\net8.0\Lesson_2.runtimeconfig.json
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\bin\Debug\net8.0\Lesson_2.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\bin\Debug\net8.0\Lesson_2.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\refint\Lesson_2.dll
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.pdb
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\Lesson_2.genruntimeconfig.cache
+F:\АНАЛИТИК\Языки программирования\C_sharp\Lesson_2\obj\Debug\net8.0\ref\Lesson_2.dll
