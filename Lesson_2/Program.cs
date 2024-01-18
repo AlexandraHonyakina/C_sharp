@@ -17,23 +17,36 @@
 
 // Задача 1. Создать массив. и вывести массив.
 
+// int n = 10;
+// int[] arr = new int[n];
+// int i = 0;
+
+// while (i<n)
+// {
+// arr[i] = i + 1;
+// // Console.Write(arr[i]);
+// // Console.Write(' ');
+// Console.Write($"{arr[i]} ");
+// i = i + 1;
+
+// }
+
+//  Задача 2Создать целочисленный массив на 10 элементов
+//  и заполнить его произвольными числами. 
+//  Вывести на экран четные элементы
+
 int n = 10;
-int[] arr = new int[n];
+int[] arr = {12, 5, 36, 9, 17, 11, 3, 52, 9, 13};
 int i = 0;
 
 while (i<n)
 {
-arr[i] = i + 1;
-// Console.Write(arr[i]);
-// Console.Write(' ');
-Console.Write($"{arr[i]} ");
+    if(arr[i] % 2 == 0)
+    {
+    Console.Write($"{arr[i]} ");
+    }
 i = i + 1;
-
 }
-
-
-
-
 
 
 
